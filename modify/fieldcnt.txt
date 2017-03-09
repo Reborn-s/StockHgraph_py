@@ -1,0 +1,10 @@
+Telecommunications Services 4
+Industrials 41
+Consumer Discretionary 47
+Utilities 24
+Consumer Staples 27
+Health Care 28
+Materials 21
+Information Technology 33
+Energy 28
+Financials 57

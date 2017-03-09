@@ -1,0 +1,8 @@
+
+person={}
+person[Alice]={}
+person[Alicce]={}
+person[Alice][name]=1
+person[Alicce][name]=2
+
+print person.items()
